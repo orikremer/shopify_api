@@ -1,0 +1,9 @@
+{
+  "tax_service": {
+    "name": "My Tax Service",
+    "url": "https://tax-api.shopify.com",
+    "id": 123456,
+    "default_tax_code": "P000001",
+    "active": "true"
+  }
+}
